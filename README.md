@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="logo.png" alt="Lumi Logo" width="120" />
-
 ![Lumi Banner](banner.png)
 
-# Lumi — AI Social Media Autopilot
+<img src="logo.png" alt="Lumi Logo" width="120" /> # Lumi — AI Social Media Autopilot
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-purple?style=flat-square)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10+-blue?style=flat-square&logo=python)](https://python.org)
